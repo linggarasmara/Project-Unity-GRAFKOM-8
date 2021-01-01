@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Warped Caves/Scenes/Start Screen.unity
+    guid: b07ccbe7c6343ec489f5f2fc50fe5875
+  - enabled: 1
+    path: Assets/Warped Caves/Scenes/demo.unity
+    guid: b64f59e4f29f04fd2af9c68a380019d5
+  - enabled: 1
+    path: Assets/Warped Caves/Scenes/Level2.unity
+    guid: 129fd561ac25b4f4a94e65aea928bcee
+  - enabled: 0
+    path: Assets/Warped Caves/Scenes/Menu.unity
+    guid: 2ed896a2b6cdb9e4fbe2352e84c323b2
   m_configObjects: {}
