@@ -24,8 +24,8 @@ Stage berakhir saat player sampai ke tempat tujuan (sukses) atau mati karena mon
 ## Technology :  
 Game Engine : Unity 2019.4.13f1 (64-bit)  
 Assets: Warped Caves (Unity Assets Store)   
-Script Editor : Vistual Studio Code
-Collaboration : Unity Hub 2.4.2 
+Script Editor : Vistual Studio Code   
+Collaboration : Unity Hub 2.4.2   
 Other: Tiled Map Editor (Free Level Editor) 
 
 ## Screenshot Gameplay
