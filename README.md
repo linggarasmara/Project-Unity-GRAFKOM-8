@@ -29,13 +29,13 @@ Collaboration : Unity Hub 2.4.2
 Other: Tiled Map Editor (Free Level Editor) 
 
 ## Screenshot Gameplay
-1.ScreenShot 1
 
-2.Screenshot 2
+<img width="298" alt="ssgem1" src="https://user-images.githubusercontent.com/60084323/104082700-b284f100-526a-11eb-8893-104cc111d14a.png">
 
-3.Screenshot 3
 
-4.Screenshot 4
+
+
+
 
 ## Pembagian Tugas :  
 | Nama                  | NIM       | Role          |  
