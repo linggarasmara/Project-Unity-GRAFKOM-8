@@ -32,6 +32,12 @@ Other: Tiled Map Editor (Free Level Editor)
 
 <img width="298" alt="ssgem1" src="https://user-images.githubusercontent.com/60084323/104082700-b284f100-526a-11eb-8893-104cc111d14a.png">
 
+<img width="298" alt="ssgem2" src="https://user-images.githubusercontent.com/60084323/104082748-258e6780-526b-11eb-9498-c2a2d6038d1d.png">
+
+<img width="298" alt="ssgem3" src="https://user-images.githubusercontent.com/60084323/104082772-64242200-526b-11eb-8421-0d81c28f0902.png">
+
+<img width="298" alt="ssgem4" src="https://user-images.githubusercontent.com/60084323/104082775-67b7a900-526b-11eb-9ba0-4d54082d9906.png">
+
 
 
 
